@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+#info  {
+	background-color: #0AF96A;
+	color: #F41A1A;
+	width: 500px;
+	font-size: medium;
+	position: static;
+	padding-right: 0px;
+	margin-right: 400px;
+	padding-left: 0px;
+	margin-top: auto;
+	margin-left: 534px;
+}
+#nav {
+	margin-right: auto;
+	margin-left: 0px;
+	width: 819px;
+	height: 119px;
+}
