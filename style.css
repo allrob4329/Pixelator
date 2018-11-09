@@ -4,12 +4,14 @@
 	background-color: black;
 	border: 5px solid black;
 	margin-left: 233px;
+	float: left;
 }
 .row{
 	display: table-row;
 }
 #palette {
 	margin-left: 234px;
+	float: left;
 }
 .pixel{
 	display :table-cell;
