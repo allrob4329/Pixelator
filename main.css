@@ -39,3 +39,6 @@ a   {
 	color: #0D26EF;
 	text-align: left;
 }
+#nav th:hover {
+	background-color: #A71E2F;
+}
