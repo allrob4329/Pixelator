@@ -43,3 +43,11 @@ a   {
 #nav th:hover {
 	background-color: #A71E2F;
 }
+#info2 {
+	float: right;
+	background-color: #0AF96A;
+	color: #D34254;
+	width: 553px;
+	height: 343px;
+	font-size: 16px;
+}
