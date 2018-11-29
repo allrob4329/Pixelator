@@ -55,3 +55,11 @@ a   {
 	width: 320px;
 	height: 281px;
 }
+#info3{
+	float: right;
+	background-color: #0AF96A;
+	color: #D34254;
+	width: 553px;
+	height: 147px;
+	font-size: 16px;
+}
